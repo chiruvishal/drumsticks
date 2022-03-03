@@ -15,6 +15,10 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
+.pressed{
+box-shadow: 0px 3px 4px 0px #DBEBF3;
+  opacity: 0.5;
+}
 
 .w {
 background-image: url(images/tom1.png);
